@@ -55,7 +55,7 @@
     <div class="container">
         <div class="row">
             <h2>MCJPPvPのkill数取得するやつ</h2>
-            ソースコードは<a href="https://github.com/yuzulabo/JPMCPvP-Get-KillRank" target="_blank">こちら</a><br>
+            ソースコードは<a href="https://github.com/yuzulabo/MCJPPvP-Get-KillRank" target="_blank">こちら</a><br>
             <form action="" method="get">
                 <div class="form-group">
                     <label>MinecraftID:</label>
